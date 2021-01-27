@@ -12,3 +12,4 @@ make sure to place images in the same folder of dice.py as to run the program de
 
 Thank you !
 
+![alt text](https://github.com/HameedSyed02/Dice-simulator-using-tkinter/blob/main/ss.png?raw=true)
