@@ -11,3 +11,4 @@ random.
 make sure to place images in the same folder of dice.py as to run the program default.
 
 Thank you !
+
